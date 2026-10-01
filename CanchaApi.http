@@ -1,0 +1,11 @@
+@CanchaApi_HostAddress = http://localhost:5170
+
+GET {{CanchaApi_HostAddress}}/api/horarios
+Accept: application/json
+
+###
+
+GET {{CanchaApi_HostAddress}}/api/servicios
+Accept: application/json
+
+###
